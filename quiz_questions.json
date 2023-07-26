@@ -1,0 +1,338 @@
+[
+        {
+          "question": "What is the capital of France?",
+          "options": [
+            "Berlin",
+            "London",
+            "Paris",
+            "Rome"
+          ],
+          "correctAnswer": "Paris",
+          "category": "General Knowledge"
+        },
+
+        {
+          "question": "Who painted the Mona Lisa?",
+          "options": [
+            "Leonardo da Vinci",
+            "Pablo Picasso",
+            "Vincent van Gogh",
+            "Michelangelo"
+          ],
+          "correctAnswer": "Leonardo da Vinci",
+          "category": "General Knowledge"
+        },
+	{
+	  "question": "Which is the biggest continent in the world?",
+	  "options": [
+            "North America",
+            "Asia",
+            "Africa",
+            "Australia"
+          ],
+	"correctAnswer": "Asia",
+  "category": "General Knowledge"
+	},
+	{
+         "question": "Which is the largest animal in the world?",
+	  "options": [
+            "Shark",
+            "Blue Whale",
+            "Elephant",
+            "Giraffe"
+          ],
+	"correctAnswer": "Blue Whale",
+  "category": "General Knowledge"
+	},
+	{
+         "question": "Which is the 29th state of India?",
+	  "options": [
+            "Uttarakhand",
+            "Telangana",
+            "Uttar Pradesh",
+            "Madhya Pradesh"
+          ],
+	"correctAnswer": "Telangana",
+  "category": "General Knowledge"
+	},
+	{
+         "question": "Which country is the host of ‘ASEAN Countries Conference on Traditional Medicines’?",
+	  "options": [
+            "Thailand",
+            "India",
+            "Sri Lanka",
+            "Myanmar"
+          ],
+	"correctAnswer": "India",
+  "category": "General Knowledge"
+	},
+	{
+         "question": "What is the name of first British to visit India?",
+	  "options": [
+            "Hawkins",
+            "Norway",
+            "Devid",
+            "George Bush"
+          ],
+	"correctAnswer": "Hawkins",
+  "category": "General Knowledge"
+	},
+	{
+         "question": "Which country is also known as the ‘Land of Rising Sun’?",
+	  "options": [
+            "New Zealand",
+            "Fiji",
+            "China",
+            "Japan"
+          ],
+	"correctAnswer": "Japan",
+  "category": "General Knowledge"
+	},
+	{
+         "question": "How many languages are there in Indian currency notes?",
+	  "options": [
+            "14",
+            "17",
+            "15",
+            "16"
+          ],
+	"correctAnswer": "17",
+  "category": "General Knowledge"
+	},
+	{
+         "question": "Which latitude passes through the middle of India?",
+	  "options": [
+            "Equator",
+            "Arctic Circle",
+            "Tropic of Capricorn",
+            "Tropic of Cancer"
+          ],
+	"correctAnswer": "Tropic of Cancer",
+  "category": "General Knowledge"
+	},
+      
+    
+        {
+          "question": "What is the chemical symbol for water?",
+          "options": [
+            "H2O",
+            "CO2",
+            "O2",
+            "N2"
+          ],
+          "correctAnswer": "H2O",
+          "category": "Science"
+        },
+        {
+          "question": "Which of the following is a non metal that remains liquid at room temperature?",
+          "options": [
+            "Phosphorous",
+            "Bromine",
+            "Chlorine",
+            "Helium"
+          ],
+          "correctAnswer": "Bromine",
+          "category": "Science"
+        },
+        {
+          "question": "What is the unit for measuring the amplitude of a sound?",
+          "options": [
+            "Decibel",
+            "Coulomb",
+            "Hum",
+            "Cycles"
+          ],
+          "correctAnswer": "Decibel",
+          "category": "Science"
+        },
+	{
+          "question": "Nautical mile is a unit of distance used in",
+          "options": [
+            "navigation",
+            "road mile",
+            "astronomy",
+            "measuring the boundaries of a nation"
+          ],
+          "correctAnswer": "navigation",
+          "category": "Science"
+        },
+	{
+          "question": "How many colours the sunlight spectrum has?",
+          "options": [
+            "Three",
+            "Seven",
+            "Four",
+            "Five"
+          ],
+          "correctAnswer": "Seven",
+          "category": "Science"
+        },
+	{
+          "question": "Which of the following is commonly called a 'polyamide'?",
+          "options": [
+            "Terylene",
+            "Nylon",
+            "Rayon",
+            "Orlon"
+          ],
+          "correctAnswer": "Nylon",
+          "category": "Science"
+        },
+	{
+          "question": "Optic fibres are mainly used for which of the following?",
+          "options": [
+            "Musical Instruments",
+            "Food industry",
+            "Weaving",
+            "Communication"
+          ],
+          "correctAnswer": "Communication",
+          "category": "Science"
+        },
+	{
+          "question": "Which material from the following has the highest transparency?",
+          "options": [
+            "Paper",
+            "Wood",
+            "Metal",
+            "Glass"
+          ],
+          "correctAnswer": "Glass",
+          "category": "Science"
+        },
+	{
+          "question": "Which cell organelle is also called the powerhouse of the cell?",
+          "options": [
+            "Golgi Apparatus",
+            "Ribosome",
+            "Mitochondria",
+            "Cytoplasm"
+          ],
+          "correctAnswer": "Mitochondria",
+          "category": "Science"
+        },
+	{
+          "question": "Which is the lightest element in the periodic table?",
+          "options": [
+            "Helium",
+            "Carbon",
+            "Nitrogen",
+            "Hydrogen"
+          ],
+          "correctAnswer": "Hydrogen",
+          "category": "Science"
+        },
+    
+      
+        {
+          "question": "Find the correctly spelt words.",
+          "options": [
+            "Benefitted",
+            "Benifited",
+            "Benefited",
+            "Benefeted"
+          ],
+          "correctAnswer": "Benefited",
+          "category": "Verbal Ability"
+        },
+   	 {
+          "question": "Find the correctly spelt words.",
+          "options": [
+            "Exterminatte",
+            "Inexpliccable",
+            "Offspring",
+            "Reffere"
+          ],
+          "correctAnswer": "Offspring",
+          "category": "Verbal Ability"
+        },
+	{
+          "question": "Find the antonymn of the word EXODUS",
+          "options": [
+            "Influx",
+            "Home-coming",
+            "Return",
+            "Restoration"
+          ],
+          "correctAnswer": "Influx",
+          "category": "Verbal Ability"
+        },
+	{
+          "question": "Find the antonymn of the word DISPARAGE",
+          "options": [
+            "Please",
+            "Praise",
+            "Belittle",
+            "Denigrate"
+          ],
+          "correctAnswer": "Praise",
+          "category": "Verbal Ability"
+        },
+	{
+          "question": "A person who insists on something",
+          "options": [
+            "Disciplinarian",
+            "Stickler",
+            "Instantaneous",
+            "Boaster"
+          ],
+          "correctAnswer": "Stickler",
+          "category": "Verbal Ability"
+        },
+	{
+          "question": "The policy of extending a country's empire and influence",
+          "options": [
+            "Communism",
+            "Internationalism",
+            "Capitalism",
+            "Imperialism"
+          ],
+          "correctAnswer": "Imperialism",
+          "category": "Verbal Ability"
+        },
+	{
+          "question": "Change the voice of the sentence: Darjeeling grows tea",
+          "options": [
+            "Tea is being grown in Darjeeling.",
+            "Let the tea be grown in Darjeeling.",
+            "Tea is grown in Darjeeling.",
+            "Tea grows in Darjeeling."
+          ],
+          "correctAnswer": "Tea is grown in Darjeeling.",
+          "category": "Verbal Ability"
+        },
+	{
+          "question": "Change the voice of the sentence: Who is creating this mess?",
+          "options": [
+            "Who has been created this mess?",
+            "By whom has this mess been created?",
+            "By whom this mess is being created?",
+            "By whom is this mess being created?"
+          ],
+          "correctAnswer": "By whom is this mess being created?",
+          "category": "Verbal Ability"
+        },
+	{
+          "question": "Select the pair which has the same relationship: AFTER:BEFORE",
+          "options": [
+            "first:second",
+            "present:past",
+            "contemporary:historic",
+            "successor:predecessor"
+          ],
+          "correctAnswer": "successor:predecessor",
+          "category": "Verbal Ability"
+        },
+	{
+          "question": "Select the pair which has the same relationship: FILTER:WATER",
+          "options": [
+            "curtail:activity",
+            "expunge:book",
+            "edit:text",
+            "censor:play"
+          ],
+          "correctAnswer": "censor:play",
+          "category": "Verbal Ability"
+        }
+   
+      ]
